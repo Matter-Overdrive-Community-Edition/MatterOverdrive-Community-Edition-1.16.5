@@ -1,0 +1,17 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "GPL-3.0 License"
+issueTrackerURL="https://github.com/infiniteblock/MatterOverdrive-Community-Edition/issues"
+# A list of mods - how many allowed here is determined by the individual mod loader
+[[mods]]
+modId = "matteroverdrive"
+version = "ALPHA.0"
+displayName = "Matter Overdrive"
+# A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
+#updateJSONURL="https://change.me.example.invalid/updates.json"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/matter-overdrive-community-edition"
+logoFile = "mo_logo.png" 
+credits = "A mod that dwells within matter and energy."
+authors = "InfiniteBlock, VanMuur, Gandalf360one, Horizon Studio, Coded, Buuz135, Simeon Radivoev, Shadowfacts, Dev_Osmium"
+description = ""
+
